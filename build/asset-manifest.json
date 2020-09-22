@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/waterdamage/static/css/main.e32146c9.chunk.css",
+    "main.js": "/waterdamage/static/js/main.290f6a2b.chunk.js",
+    "main.js.map": "/waterdamage/static/js/main.290f6a2b.chunk.js.map",
+    "runtime-main.js": "/waterdamage/static/js/runtime-main.d132e619.js",
+    "runtime-main.js.map": "/waterdamage/static/js/runtime-main.d132e619.js.map",
+    "static/js/2.b37ecff5.chunk.js": "/waterdamage/static/js/2.b37ecff5.chunk.js",
+    "static/js/2.b37ecff5.chunk.js.map": "/waterdamage/static/js/2.b37ecff5.chunk.js.map",
+    "index.html": "/waterdamage/index.html",
+    "precache-manifest.2396ad6600dc86ff1ffc02a7e1b0ee36.js": "/waterdamage/precache-manifest.2396ad6600dc86ff1ffc02a7e1b0ee36.js",
+    "service-worker.js": "/waterdamage/service-worker.js",
+    "static/css/main.e32146c9.chunk.css.map": "/waterdamage/static/css/main.e32146c9.chunk.css.map",
+    "static/js/2.b37ecff5.chunk.js.LICENSE.txt": "/waterdamage/static/js/2.b37ecff5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d132e619.js",
+    "static/js/2.b37ecff5.chunk.js",
+    "static/css/main.e32146c9.chunk.css",
+    "static/js/main.290f6a2b.chunk.js"
+  ]
+}

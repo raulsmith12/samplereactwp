@@ -1,0 +1,36 @@
+{
+  "name": "water-damage-utah",
+  "version": "1.0.0",
+  "description": "Water Damage Restoration of Utah",
+  "homepage": "https://galacticblue.net/waterdamage/",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "GalacticBlue",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "reactstrap": "^8.4.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
